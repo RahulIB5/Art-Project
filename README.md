@@ -36,8 +36,8 @@ An interactive data table built with **React (Vite + TypeScript)** and **PrimeRe
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/artworks-prime-react.git
-cd artworks-prime-react
+git clone https://github.com/RahulIB5/Art-Project
+cd Art-Project
 ````
 
 ### 2. Install Dependencies
