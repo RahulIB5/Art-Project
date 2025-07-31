@@ -27,7 +27,7 @@ An interactive data table built with **React (Vite + TypeScript)** and **PrimeRe
 
 ## 🚀 Live Demo
 
-🔗 [Deployed App](https://your-deployed-url.com)  
+🔗 [Deployed App](https://artt-project.netlify.app/)  
 
 ---
 
